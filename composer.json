@@ -1,0 +1,16 @@
+{
+    "name": "jpgabs/first-package",
+    "description": "a simple package using native php",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Jpgabs\\FirstPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "John Paul Gabule"
+        }
+    ],
+    "require": {}
+}
