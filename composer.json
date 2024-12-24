@@ -2,6 +2,7 @@
     "name": "jpgabs/first-package",
     "description": "a simple package using native php",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Jpgabs\\FirstPackage\\": "src/"
